@@ -1,0 +1,228 @@
+.container{
+    
+    height:3600px;
+    width:1500px;
+}
+
+.nav-container{
+    
+    height:80px;
+    display:flex;
+    background-color: black;
+    color:white;
+    
+}
+
+.left{
+    
+    padding:10px;
+}
+
+.right{
+    
+    margin-left:650px;
+    padding:20px;
+    display: flex;
+    justify-content: space-evenly;
+    width:500px;
+    
+
+}
+
+button{
+    height:50px;
+    width:250px;
+    border-radius: 10px;
+    background-color: lightgray;
+}
+
+ button:hover{
+    background-color:lightskyblue;
+
+}
+
+
+.h1{
+    background-color: brown;
+}
+
+.r1{
+    display:flex;
+    
+}
+
+.cont2{
+    display:flex;
+
+}
+
+.res{
+    display: flex;
+}
+
+.l1{
+    gap:50px;
+}
+
+.flex{
+    display:flex;
+}
+
+.do{
+
+    margin-left: 20px;
+    position:absolute;
+    margin-top:120px;
+    font-weight:bold;
+    font-size:20px;
+}
+
+.dont{
+    position:relative;
+
+}
+
+.drum{
+    
+    margin-left: 20px;
+    position:absolute;
+    margin-top:110px;
+    font-weight:bold;
+    font-size:20px;
+}
+
+
+
+.eee{
+    font-size:20px;
+}
+
+.pen{
+    font-size:20px;
+    top:30px;
+}
+
+.footer{
+    font-size:18px;
+    margin-left: 200px;
+
+    
+}
+
+
+
+.ff{
+    width:100%;
+    height:250px;
+    background-color:lightcyan;
+    
+
+}
+
+.foot1{
+
+    height:500px;
+    width:1500px;
+    background-color: black;
+    color:white;
+}
+
+.nav-foot{
+    display:flex;
+    justify-content: space-evenly;
+    
+}
+
+
+.foot2{
+    
+    display:flex;
+    justify-content: space-evenly;
+    margin-left:450px;
+    font-size:20px;
+    margin-top:50px;
+    
+}
+
+.btn{
+    
+    height:50px;
+    
+}
+
+.nav-btn{
+    display: flex;
+    margin-left: 70px;
+    justify-content: space-evenly;
+    
+}
+
+.r5{
+    margin-left:1000px;
+    margin-top:10px;
+
+}
+
+.nav-f2{
+    
+    display:flex;
+    
+
+}
+
+
+.lf2{
+    margin-left:100px;
+}
+
+
+.fff{
+    background-color: lightslategray;
+}
+
+.box5{
+    display:flex;
+    justify-content: space-evenly;
+}
+
+.f4{
+    background-color:aqua;
+}
+
+.f6{
+    position:relative;
+    
+    
+    
+    
+}
+
+.l2{
+    background-color:lavender;
+}
+
+.r2{
+    background-color: lavender;
+}
+
+
+.i{
+    font-size:16px;
+}
+
+.l5{
+    margin-left:5px;
+}
+
+.jjj{
+    
+    height:30px;
+    width:100%;
+    
+}
+
+.btn{
+    background-color:blue;
+}
+
+
